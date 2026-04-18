@@ -54,7 +54,7 @@ Paste `src/exporter.js` directly into the browser console on any Claude conversa
 
 **Markdown:**
 ```markdown
-# Building CSCAschool
+# Building "something"
 
 *Exported 4/16/2026 · Started Apr 1, 2026, 2:14 PM*
 
@@ -74,7 +74,7 @@ Here's the RLS policy you need...
 **JSON:**
 ```json
 {
-  "title": "Building CSCAschool",
+  "title": "Building something",
   "conversation_id": "abc-123",
   "created_at": "2026-04-01T14:14:00Z",
   "exported_at": "2026-04-16T10:00:00Z",
